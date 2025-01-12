@@ -86,3 +86,60 @@ body{
     font-size: 16px;
     color: #696969;
 }
+.visionsection{
+    margin: 80px 160px 32px;
+}
+.vtitle{
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 24px;
+}
+.vtext{
+    color: #6b6b6b;
+}
+.vtext2{
+    color: #6b6b6b;
+    margin-bottom: 24px;
+}
+.vframe{
+    display: flex;
+    justify-content: space-between;
+    margin: 32px 0px;
+}
+.vtile{
+    font-size: 20px;
+    font-weight: bold;
+    margin: 24px 0px 12px 0px;
+}
+.frame{
+    width: 411px;
+    padding: 32px;
+    border-radius: 16px;
+}
+.frame1{
+    background-color: #c9dbfa;
+}
+.frame2{
+    background-color: #C6E4D6;
+    margin: 0px 32px;
+}
+.frame3{
+    background-color: #F7EBCF;
+}
+.visionbtn{
+    padding: 11px 20px;
+    border: 0px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #ffffff;
+    border-radius: 8px;
+}
+#blue{
+    background-color: #5490F5;
+}
+#green{
+    background-color: #09A15C;
+}
+#orange{
+    background-color: #FFC239;
+}
