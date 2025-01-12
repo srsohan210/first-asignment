@@ -193,3 +193,56 @@ body{
     border-radius: 8px;
     background-color:#006A50 ;
 }
+
+
+.donate{
+    margin: 80px 160px 24px;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+}
+.sub{
+    margin: 24px 160px 0px;
+}
+.boxtt{
+    display: flex;
+    justify-content: space-between;
+    margin: 32px 160px;
+}
+.boxnn{
+    font-weight: bolder;
+    font-size: 20px;
+    border: 1px solid rgb(202, 202, 202);
+    width: 240px;
+    padding: 40px;
+    align-items: center;
+    text-align: center;
+    border-radius: 16px;
+    background-color: #ffffff;
+}
+.dui{
+    background-color: #C6E4D6;
+    margin: 0px 24px;
+}
+.tin{
+    margin-right: 24px;
+}
+.takaa{
+    text-align: center;
+    background-color: #ffffff;
+    padding: 20px;
+    font-size: 16px;
+    border: 0px;
+    box-sizing: border-box;
+    margin: 32px 160px 32px 160px;
+    align-content: center;
+}
+.taka{
+    border: 0px;
+    margin-left: 13%;
+    font-size: 32px;
+}
+.center1{
+    text-align: center;
+    margin-top: 32px;
+}
