@@ -246,3 +246,24 @@ body{
     text-align: center;
     margin-top: 32px;
 }
+.foot{
+    margin: 80px 0px 0px;
+    background-color: white;
+}
+.bd1{
+    text-align: center;
+    font-size: 20px;
+}
+.line{
+    margin: 32px 160px;
+}
+.social{
+    margin: 32px auto auto auto;
+    text-align: center;
+}
+.insta{
+    margin: 0px 32px 50px;
+}
+.fb {
+    width: 300px;
+}
