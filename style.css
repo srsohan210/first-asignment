@@ -26,6 +26,11 @@ body{
     border: 1px solid #006A50 ;
     border-radius: 8px;
     background-color: #ffffff;
+    color: #006A50;
+  }
+  .signin:hover{
+    background-color: #006A50;
+    color: white;
   }
   .hero{
     display: flex;
@@ -55,6 +60,14 @@ body{
     color: #ffffff;
     border: 0px;
     margin-top: 24px;
+  }
+  .btn2:hover{
+    background-color: red;
+    color: white;
+  }
+  .box:hover{
+    background-color: rgb(225, 210, 210);
+    color: white;
   }
 .text2{
     margin: 0px 160px;
@@ -133,6 +146,15 @@ body{
     font-weight: 600;
     color: #ffffff;
     border-radius: 8px;
+}
+#blue:hover{
+    background-color: red;
+}
+#green:hover{
+    background-color: red;
+}
+#orange:hover{
+    background-color: red;
 }
 #blue{
     background-color: #5490F5;
@@ -219,6 +241,13 @@ body{
     text-align: center;
     border-radius: 16px;
     background-color: #ffffff;
+}
+.read:hover{
+    background-color: #b3014e;
+}
+.boxnn:hover{
+    background-color: #006A50;
+    color: white;
 }
 .dui{
     background-color: #C6E4D6;
