@@ -56,3 +56,33 @@ body{
     border: 0px;
     margin-top: 24px;
   }
+.text2{
+    margin: 0px 160px;
+
+}
+.pillar{
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 32px;
+}
+.allbox{
+    display: flex;
+    justify-content: space-between;
+}
+.box{
+    border: 1px solid #dedddd;
+    padding: 24px;
+    width: 302px;
+    margin-right: 24px;
+    border-radius: 16px;
+    background-color: #ffffff;
+}
+.pname{
+    font-size: 20px;
+    font-weight: bold;
+    margin: 24px auto 12px auto;
+}
+.ptext{
+    font-size: 16px;
+    color: #696969;
+}
