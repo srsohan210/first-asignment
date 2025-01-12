@@ -143,3 +143,53 @@ body{
 #orange{
     background-color: #FFC239;
 }
+.news{
+    margin: 60px 160px 24px;
+    font-size: 40px;
+    font-weight: bold;
+}
+.newstitle{
+    margin: 24px 160px 32px;
+    font-size: 16px;
+    color: #696969;
+}
+.newsbar{
+    background-color: white;
+    border-radius: 24px;
+    margin: 0px 160px 24px;
+    padding: 48px ;
+    display: flex;
+    justify-content: space-between;
+}
+.newimage{
+    margin-right: 32px;
+    border-radius: 24px;
+}
+.img2{
+    margin-left: 32px;
+    border-radius: 24px;
+}
+.nt{
+    font-size: 32px;
+    font-weight: bold;
+}
+.logo{
+    margin: 12px 0px;
+}
+.date{
+    margin-bottom: 12px;
+    color: #696969;
+}
+.ntext{
+    color: #696969;
+    margin-bottom: 32px;
+}
+.read{
+    padding: 11px 20px;
+    border: 0px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #ffffff;
+    border-radius: 8px;
+    background-color:#006A50 ;
+}
